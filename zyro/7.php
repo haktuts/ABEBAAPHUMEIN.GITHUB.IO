@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Introduction</title>
+	<base href="{{base_url}}" />
+			<meta name="viewport" content="width=1333" />
+		<meta name="description" content="Types of hackers,
+1.White hat hackers
+2.Black hat hackers
+3.Grey hat hackers," />
+	<meta name="keywords" content="Who is hacker,Hackers v,s crackers" />
+		<meta name="generator" content="Zyro - Website Builder" />
+	
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+	<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/main.js" type="text/javascript"></script>
+
+	<link href="css/site.css?v=1.0.12" rel="stylesheet" type="text/css" />
+	<link href="css/common.css?ts=1433839385" rel="stylesheet" type="text/css" />
+	<link href="css/7.css?ts=1433839385" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="http://haktuts.com/gallery/icon-ts1413278622.png" type="image/png" /><meta name="google-site-verification" content="google6bc4eec58925fc74.html" />
+	<script type="text/javascript">var currLang = '';</script>		
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+
+<body>{{ga_code}}<div class="root"><div class="vbox wb_container" id="wb_header">
+	
+<div id="wb_element_instance111" class="wb_element"><ul class="hmenu"><li><a href="Home/" target="_self" title="Home">Home</a></li><li><a href="Free-ethical-hacking-course-online/" target="_self" title="Ethical Hacking">Ethical Hacking</a></li><li><a href="Linux/" target="_self" title="Linux">Linux</a></li><li><a href="Tips-and-tricks/" target="_self" title="Tips and Trick ">Tips and Trick </a><ul><li><a href="how-to-share-internet-without-wifi/" target="_self" title="Windows">Windows</a></li><li><a href="basic-windows-command/" target="_self" title="Windows Shortcut">Windows Shortcut</a></li><li><a href="top-20-notepad-trick/" target="_self" title="Notepad Hacking">Notepad Hacking</a></li><li><a href="list-of-top-cydia-tweaks-for-ios/" target="_self" title="iOS">iOS</a></li><li><a href="how-to-install-kali-linux-nethunter/" target="_self" title="Android">Android</a></li></ul></li><li><a href="download-all-hacking-tools/" target="_self" title="Download">Download</a></li><li><a href="Contact-us/" target="_self" title="Contact us">Contact us</a></li><li><a href="Book/" target="_self" title="Book">Book</a></li><li><a href="Earn-Money/" target="_self" title="Earn Money">Earn Money</a></li><li><a href="http://haktuts.blogspot.in" target="_self" title="Blog">Blog</a></li><li><a href="https://cse.google.com/cse/publicurl?cx=001639366659799729802:vr921b1tgry#gsc.tab=0&amp;gsc.q=haktuts&amp;gsc.sort=" target="_blank" title="Hackers Search Engine">Hackers Search Engine</a></li></ul></div><div id="wb_element_instance112" class="wb_element"><div></div></div><div id="wb_element_instance113" class="wb_element"><a class="wb_button" href="Home/"><span>HaKTuts</span></a></div></div>
+<div class="vbox wb_container" id="wb_main">
+	
+<div id="wb_element_instance114" class="wb_element" style=" overflow: hidden;"><script id="airpushScript" type="text/javascript" src="//ab.airpush.com/apportal/client/airpush.js?siteid=263411&amp;testmode=0&amp;banner360=1&amp;banner=slot1&amp;placementid=0&amp;tp=0">
+</script><style type="text/css">
+            button{
+                width: 250px;
+                height: 250px;
+                
+            }
+            table{
+                border: 0;
+
+            }
+            body{
+                margin: 0;
+                padding: 0;
+            }
+        </style><table><tbody><tr><td id="error" style="color: red">
+                          <img src="https://airpushmarketing.s3.amazonaws.com/abstract_examples_web.gif" width="250px"></td>
+                    </tr></tbody></table></div><div id="wb_element_instance115" class="wb_element"><div style="font-size: 1px; overflow: hidden; line-height: 1px; padding: 0; background: transparent; float: none; position: relative; margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 1px solid #303030;"></div></div><div id="wb_element_instance117" class="wb_element" style=" line-height: normal;"><h1 class="wb-stl-heading1">Who is Hacker?</h1>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">Hacker is a person who is able to discover a vulnerability in system and manages to exploit. Hacking  means gains unauthorised access into system. There are three types of hackers as given below:</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">1.White hat hackers</p>
+
+<p class="wb-stl-normal">2.Black hat hackers</p>
+
+<p class="wb-stl-normal">3.Grey hat hackers</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">White hat hackers: white hat hackers or penetration tester are  ethical hackers. They use the hacking skill for defensive purpose.</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">Black hat hackers: this category of hackers also known as crackers . They find the vulnerability in system and use the same for offensive purpose.</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">Grey hat hackers: these are those category of hackers who use their skill for both defensive and offensive purpose.</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal"> </p>
+
+<p> </p>
+
+<p class="wb-stl-normal">The majority of people fall in this categories.</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">Apart from above another type of hackers given below:</p>
+
+<p class="wb-stl-normal"> </p>
+
+<p class="wb-stl-normal">Elite hackers</p>
+
+<p class="wb-stl-normal">Script kiddie</p>
+
+<p class="wb-stl-normal">Neophyte</p>
+
+<p class="wb-stl-normal">Hacktivist</p>
+
+<p class="wb-stl-normal">Green hat hackers</p>
+
+<p class="wb-stl-normal"> </p>
+
+<h1 class="wb-stl-heading1"> </h1>
+
+<h2 class="wb-stl-heading2">Hackers v/s crackers </h2>
+
+<p> </p>
+
+<p class="wb-stl-normal"><br>
+A cracker (also known as a black hat hacker) is an individual with extensive computer knowledge whose purpose is to breach or bypass internet security or gain access to software. hackers can also be internet security experts hired to find vulnerabilities in systems. These hackers are also known as white hat hackers. Crackers can also refer to those who reverse engineer software and modify it for their own amusement.<br>
+ </p>
+
+<p> </p>
+</div><div id="wb_element_instance118" class="wb_element" style="width: 100%;">
+			<?php
+				global $show_comments;
+				if (isset($show_comments) && $show_comments) {
+					renderComments(7);
+			?>
+			<script type="text/javascript">
+				$(function() {
+					var block = $("#wb_element_instance118");
+					var comments = block.children(".wb_comments").eq(0);
+					var contentBlock = $("#wb_main");
+					contentBlock.height(contentBlock.height() + comments.height());
+				});
+			</script>
+			<?php
+				} else {
+			?>
+			<script type="text/javascript">
+				$(function() {
+					$("#wb_element_instance118").hide();
+				});
+			</script>
+			<?php
+				}
+			?>
+			</div></div>
+<div class="vbox wb_container" id="wb_footer" style="height: 161px;">
+	
+<div id="wb_element_instance116" class="wb_element" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">haktuts © 2014. All Rights Reserved </h4>
+</div><div id="wb_element_instance119" class="wb_element" style="text-align: center; width: 100%;"><div class="wb_footer"></div><script type="text/javascript">
+			$(function() {
+				var footer = $(".wb_footer");
+				var html = (footer.html() + "").replace(/^\s+|\s+$/g, "");
+				if (!html) {
+					footer.parent().remove();
+					footer = $("#wb_footer");
+					footer.height(100);
+				}
+			});
+			</script></div></div><div class="wb_sbg"></div></div></body>
+</html>
