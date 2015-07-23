@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>HaKTuts</name>
+
+    <icon src="icon.png" gap:role="default" />
+    <description>
+        Free ethical hacking and linux course 
+    </description>
+
+    <author href="http://haktuts.com" email="haktuts@gmail.com">
+        HaKTUts 
+    </author>
+
+</widget>
