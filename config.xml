@@ -8,6 +8,7 @@
     <!-- versionCode is optional and Android only -->
 
     <name>HaKTuts</name>
+    <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
 
     <icon src="icon.png" gap:role="default" />
     <description>
