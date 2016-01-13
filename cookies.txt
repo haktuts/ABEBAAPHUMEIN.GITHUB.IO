@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-adrta.com	TRUE	/	FALSE	1999999999	__aavi	38667692491299549
-adrta.com	TRUE	/	FALSE	1999999999	__aavt	1434107078417
-adrta.com	TRUE	/	FALSE	1999999999	__aasi	47452351364614295
-adrta.com	TRUE	/	FALSE	1999999999	__aast	1434107078417
-
